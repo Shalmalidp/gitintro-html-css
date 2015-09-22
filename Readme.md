@@ -9,7 +9,7 @@ You have a choice of 3 Cuisines
 3. Thai
 
 Each option will link you to the best out there
-for [*Indian*](www.bhojanic.com)
-for [*Italian*](www.marechiaros.com)
-for [*Thai*](https://www.nahmthaicuisine.com)
+for [*Indian, *](http://www.bhojanic.com)
+[*Italian or *](http://www.marechiaros.com)
+[*Thai*](http://www.nahmthaicuisine.com)
 
