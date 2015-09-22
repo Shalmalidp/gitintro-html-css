@@ -1,3 +1,45 @@
-ul li {
-color : red;
+.option
+{
+  display : inline-block;
+  background-color :#95be22 ;
+  font-family: fantasy;
+  text-align : center;
+  height : 500px;
+  width :550px;
+  padding-top : 150px;
+  padding-bottom :20px;
 }
+.flowers
+{ display: inline-block;
+  background-color : #95be22 ;
+  width : 200px;
+  height: 1px;
+  padding-bottom: 50px;
+}
+
+.flowers img{} 
+
+
+h1{
+  padding : 0px;
+}
+
+h1 span {
+  color : #800000;
+}
+h1 span img{
+  height : 25px;
+  weight:10px;
+}
+
+ul li {
+  text-align : left;
+  font-weight: bold;
+  font-size:20px;
+}
+
+ul li img{
+  border-radius :50px;
+  height : 100px;
+}
+
