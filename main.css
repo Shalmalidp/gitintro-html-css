@@ -1,24 +1,38 @@
+body{
+  background-color: #95be22;
+}
+
+
 .option
 {
   display : inline-block;
-  background-color :#95be22 ;
+  
   font-family: fantasy;
   text-align : center;
   height : 500px;
-  width :550px;
+  width :40%;
   padding-top : 150px;
   padding-bottom :20px;
 }
 .flowers
 { display: inline-block;
-  background-color : #95be22 ;
-  width : 200px;
-  height: 1px;
-  padding-bottom: 50px;
+  
+  width : 50%;
+  height : 100%;
+  margin-top: 0;
+  padding: 0;
 }
 
-.flowers img{} 
 
+
+.flowers img {
+    /* float: left; */
+    height: 100%;
+    /* width: 57%; */
+    float: right;
+    height: 439px;
+    margin-right: -110px;
+}
 
 h1{
   padding : 0px;
