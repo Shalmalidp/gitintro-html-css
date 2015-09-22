@@ -11,5 +11,5 @@ You have a choice of 3 Cuisines
 Each option will link you to the best out there
 for [*Indian*](www.bhojanic.com)
 for [*Italian*](www.marechiaros.com)
-for [*Thai*](www.nahmthaicuisine.com)
+for [*Thai*](https://www.nahmthaicuisine.com)
 
